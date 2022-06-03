@@ -1,5 +1,8 @@
-# Recipe-Website
-This repo contains the contents for a recipe website. The website is completely made in html and only contains some images/gifs.
+ # Recipes Website
+This is a simple website to practice my skills with regards to HTML. Contains some of my favorite meals and their recipes.
 
-### Reflection
-The project helped me better understand html and apply some of the skills I've been learning in my down time.
+## Learning Outcome
+
+### HTML
+- Created forms in HTML
+- Learned how to properly structure multiple forms and link them together
